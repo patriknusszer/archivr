@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="archivr"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="archivr">
+				<Option output="/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/archivr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 archivr"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="archivr/fast">
+				<Option output="/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/archivr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 archivr/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/ARCH.c">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/ARCH.h">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/IT.c">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/IT.h">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/NIT.c">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/NIT.h">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/crypto.c">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/crypto.h">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/dirmapper.c">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/dirmapper.h">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/info.c">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/info.h">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/main.c">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/node.c">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/node.h">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/unordered_map.c">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/unordered_map.h">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/util.c">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/util.h">
+			<Option target="archivr"/>
+		</Unit>
+		<Unit filename="/Users/patrik.nusszer/CLionProjects/archivr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

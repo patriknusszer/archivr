@@ -1,0 +1,3 @@
+/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/patrik.nusszer/CLionProjects/archivr/cmake-build-debug/CMakeFiles/archivr.dir
