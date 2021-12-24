@@ -23,6 +23,6 @@ char** subsfiles(SUBS* subs, int* fcnt);
 
 #if (defined(WIN32) || defined(_WIN32) ||defined (__WIN32__))
     //Helper functions related to windows path
-    char* toWindowsPath(std::string path);
+    char* toWindowsPath(char* path);
 #endif
 #endif
